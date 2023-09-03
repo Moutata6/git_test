@@ -6,3 +6,6 @@
 "sample text"
 -/repos/git_test$ git add .
 -/repos/git_test$ git status
+-/repos/git_test$ git commit -m "edit README.md and hello_world.txt"
+-/repos/git_test$ git status
+-/repos/git_test$ git log
