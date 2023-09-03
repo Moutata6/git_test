@@ -1,0 +1,2 @@
+-/repos/git_test$ touch hello-world.txt
+-repos/git_text$ git status
