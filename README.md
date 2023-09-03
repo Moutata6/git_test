@@ -4,5 +4,8 @@
 -/repos$ cd git_test/
 -/repos/git_test$ git remote -v
 -/repos/git_test$ code .
--/repos/git_test$
+-/repos/git_test$ git status
 "Hello Odin!"
+-/repos/git_test$ git add README.md
+-/repos/git_test$ git status
+-/repos/git_test$
