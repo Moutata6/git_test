@@ -3,3 +3,4 @@
 -/repos/git_test$ git commit -m "add hello_world.text"
 -/repos/git_test$ git status
 -/repos/git_test$ git log
+print "sample text"
